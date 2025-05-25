@@ -8,9 +8,9 @@
     "flatiron": "*",
     "utile": "*",
     "revalidator": "*",
-    "nat-pmp": "0.0.1",
-    "nat-upnp": "~0.2.4",
-    "netroute": "~0.2.2"
+    "nat-pmp": "0.0.2",
+    "nat-upnp": "~0.2.5",
+    "netroute": "~0.2.3"
   },
   "bin": {
     "natman": "./bin/natman"
